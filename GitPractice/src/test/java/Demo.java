@@ -34,7 +34,7 @@ public class Demo
 	//-->click next-->browse the repo-->finish
 	
 	
-	to export a project into repo
+	//to export a project into repo
 	//click file-->click export-->click file system-->click next-->browse the repo-->click finish
 
 }
